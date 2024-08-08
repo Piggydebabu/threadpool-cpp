@@ -6,7 +6,6 @@ threadpool in cpp-11
 编译运行：
 
 ```bash
-cd example/
 mkdir build && cd build
 cmake ..
 make
